@@ -382,6 +382,10 @@
         margin: auto;
     }
 
+    .spsearch p {
+        text-align: center;
+    }
+
     .faqsearch {
         width: 320px;
 
